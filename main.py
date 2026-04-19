@@ -3,7 +3,7 @@ import os
 from telegram import Update, Poll
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = os.getenv("TOKEN")
+TOKEN = os.getenv("8683570334:AAH7-Zh7UUSamc-Fip2roCFOZ5ZJExitpdo")
 
 logging.basicConfig(level=logging.INFO)
 
